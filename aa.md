@@ -43,21 +43,17 @@ _You **can** combine them_
 
 You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
-## Blockquotes
+# Table of Contents
+1. [Example](#example)
+2. [Example2](#example2)
+3. [Third Example](#third-example)
+4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
+## Example
+## Example2
+## Third Example
+## [Fourth Example](http://www.fourthexample.com) 
 
 ```
 let message = 'Hello world';
